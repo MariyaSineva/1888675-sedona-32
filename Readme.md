@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Мария Синева](https://up.htmlacademy.ru/htmlcss/32/user/1888675).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец] (https://htmlacademy.ru/profile/seraphim).
 
 ---
 
